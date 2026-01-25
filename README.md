@@ -977,7 +977,7 @@ Advice
 
 4.  A warning: there are some **kisses of death** in the SOP. These will
     basically kill your application. [There is a study on this (click
-    here!).](https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf)
+    here!).](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/7/3497/files/2019/10/Appleby-Appleby-2006-Kisses-of-death-in-the-graduate-school-application-process.pdf)
     Two I think that are especially relevant: oversharing your struggles
     (especially with mental health) and trying too hard to impress. The
     first one is a rather unfortunate one; it is my personal belief that
